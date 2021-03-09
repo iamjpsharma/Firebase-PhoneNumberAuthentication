@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143656164756",
+    "firebase_url": "https://samyak-165d5-default-rtdb.firebaseio.com",
+    "project_id": "samyak-165d5",
+    "storage_bucket": "samyak-165d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143656164756:android:8cdc11c50acb58f5230381",
+        "android_client_info": {
+          "package_name": "com.novotraxcorp.samyak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143656164756-4itlu9ju14i8kq3osaghdojv0bief6mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novotraxcorp.samyak",
+            "certificate_hash": "63e8509843e2e1d0dd15de1577dc02ae6727b297"
+          }
+        },
+        {
+          "client_id": "143656164756-20dbh5v7rdu09e5c5erc268hush6fb06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtip1GNgh2hiPGcdtV3ldwdyK07Cu0azk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143656164756-20dbh5v7rdu09e5c5erc268hush6fb06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
